@@ -1,0 +1,77 @@
+//header
+.header {
+    position: absolute;
+    top: 5%;
+    left: 3%;
+    width: 50px;
+    margin-top: 8px;
+    z-index: 10;
+    img {
+        width: 100%;
+    }
+}
+
+//LoginForm
+.form_pos {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 60vw;
+    // border: 1px solid #666;
+}
+
+.form_group {
+    // border: 1px #666 solid;
+    padding: 2rem 4rem;
+    margin-top: 3rem;
+    width: 80%;
+}
+
+.iconGroup {
+    display: flex;
+    align-items: center;
+    img {
+        margin-right: 8px;
+        width: 7rem;
+        &.small {
+            width: 4rem;
+        }
+    }
+}
+
+//SliderContainer
+.slider_pos {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 40vw;
+    // border: 1px solid #666;
+    z-index: 1;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiperImg {
+    width: 100%;
+}
+
+//welcome
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+//error
+#errorFour {
+    .container {
+        max-width: 100%;
+        img {
+            width: 100%;
+        }
+    }
+}

@@ -1,0 +1,76 @@
+.header {
+  position: absolute;
+  top: 5%;
+  left: 3%;
+  width: 50px;
+  margin-top: 8px;
+  z-index: 10;
+}
+
+.header img {
+  width: 100%;
+}
+
+.form_pos {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 60vw;
+}
+
+.form_group {
+  padding: 2rem 4rem;
+  margin-top: 3rem;
+  width: 80%;
+}
+
+.iconGroup {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.iconGroup img {
+  margin-right: 8px;
+  width: 7rem;
+}
+
+.iconGroup img.small {
+  width: 4rem;
+}
+
+.slider_pos {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 40vw;
+  z-index: 1;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiperImg {
+  width: 100%;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#errorFour .container {
+  max-width: 100%;
+}
+
+#errorFour .container img {
+  width: 100%;
+}
+/*# sourceMappingURL=custom.css.map */
