@@ -1,4 +1,4 @@
-# instaauth_vue3
+# login/logout side project
 
 ### 使用技術
 * vue3開發 + vue cli環境部屬
