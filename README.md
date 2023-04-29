@@ -7,7 +7,7 @@
 * vee-validate 表單驗證套件搭配撰寫前端驗證機制 
 * swiper 幻燈片套件
 * firebase部屬網站
-
+##### 網址~https://login-12607.web.app/#/
 
 ## Project setup
 ```
